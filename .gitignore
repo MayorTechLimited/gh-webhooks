@@ -1,0 +1,8 @@
+hooks/*
+venv
+.env
+.vscode
+nohup.out
+workspace/*
+!.gitkeep
+__pycache__
