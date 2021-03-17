@@ -2,4 +2,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from main import app
+from main import app  # noqa
