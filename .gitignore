@@ -6,3 +6,4 @@ nohup.out
 workspace/*
 !.gitkeep
 __pycache__
+main.log
