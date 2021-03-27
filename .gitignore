@@ -7,3 +7,4 @@ workspace/*
 !.gitkeep
 __pycache__
 main.log
+Caddyfile
